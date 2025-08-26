@@ -1,0 +1,142 @@
+Top 10 correlations for 'Work mainly at or from home':
+Works mainly from home                                                           1.000000
+2. Professional occupations                                                      0.957354
+M Professional, scientific and technical activities                              0.940207
+Level 4 qualifications or above                                                  0.918861
+J Information and communication                                                  0.904580
+3. Associate professional and technical occupations                              0.896882
+AB Higher and intermediate managerial/administrative/professional occupations    0.879435
+K Financial and insurance activities                                             0.842059
+Full-time: 49 or more hours worked                                               0.790117
+1. Managers, directors and senior officials                                      0.783475
+Name: Work mainly at or from home, dtype: float64
+
+Top 10 correlations for 'Underground, metro, light rail, tram':
+Aged 25 to 34 years                                               0.498752
+Private rented: Private landlord or letting agency                0.489577
+Private rented                                                    0.485261
+Private rented or lives rent free                                 0.484883
+J Information and communication                                   0.478724
+Single family household: Cohabiting couple family: No children    0.427745
+White: Other White                                                0.409473
+Other household types                                             0.405337
+Mixed or Multiple ethnic groups                                   0.403385
+I Accommodation and food service activities                       0.394044
+Name: Underground, metro, light rail, tram, dtype: float64
+
+Top 10 correlations for 'Train':
+Private rented: Private landlord or letting agency                                               0.500962
+Private rented or lives rent free                                                                0.499898
+Private rented                                                                                   0.499506
+Aged 25 to 34 years                                                                              0.494862
+Single family household: Cohabiting couple family: No children                                   0.468355
+Aged 16 to 24 years                                                                              0.459945
+Never married and never registered a civil partnership                                           0.438818
+One-person household: Other                                                                      0.424029
+Other household types: Other, including all full-time students and all aged 66 years and over    0.419442
+On foot                                                                                          0.419216
+Name: Train, dtype: float64
+
+Top 10 correlations for 'Bus, minibus or coach':
+9. Elementary occupations                                                                    0.753064
+Black, Black British, Black Welsh, Caribbean or African                                      0.742303
+Black, Black British, Black Welsh, Caribbean or African: African                             0.741934
+No cars or vans in household                                                                 0.687551
+Mixed or Multiple ethnic groups: White and Black African                                     0.681925
+Mixed or Multiple ethnic groups                                                              0.661155
+I Accommodation and food service activities                                                  0.641381
+DE Semi-skilled and unskilled manual occupations; unemployed and lowest grade occupations    0.634538
+Never married and never registered a civil partnership                                       0.629077
+Index of Multiple Deprivation (IMD) Rank                                                     0.619901
+Name: Bus, minibus or coach, dtype: float64
+
+Top 10 correlations for 'Taxi':
+DE Semi-skilled and unskilled manual occupations; unemployed and lowest grade occupations    0.743245
+9. Elementary occupations                                                                    0.682915
+No qualifications                                                                            0.646915
+Index of Multiple Deprivation (IMD) Rank                                                     0.627481
+Index of Multiple Deprivation (IMD) Decile                                                   0.624637
+H Transport and storage                                                                      0.604019
+Other household types: With dependent children                                               0.596645
+8. Process, plant and machine operatives                                                     0.578454
+6 people in household                                                                        0.572147
+Total social grade                                                                           0.566500
+Name: Taxi, dtype: float64
+
+Top 10 correlations for 'Motorcycle, scooter or moped':
+Single family household: Cohabiting couple family: With dependent children       0.394026
+5. Skilled trades occupations                                                    0.362702
+6. Caring, leisure and other service occupations                                 0.326014
+Level 2 qualifications                                                           0.323883
+Divorced or civil partnership dissolved                                          0.323592
+C2 Skilled manual occupations                                                    0.319719
+Passenger in a car or van                                                        0.306606
+Single family household: Cohabiting couple family: All children non-dependent    0.299507
+F Construction                                                                   0.291859
+Apprenticeship                                                                   0.290956
+Name: Motorcycle, scooter or moped, dtype: float64
+
+Top 10 correlations for 'Driving a car or van':
+F Construction                                                                    0.828020
+Single family household                                                           0.793830
+Owned: Owns with a mortgage or loan                                               0.788789
+Owns with a mortgage or loan or shared ownership                                  0.788484
+5. Skilled trades occupations                                                     0.783889
+Aged 50 to 64 years                                                               0.754720
+2 cars or vans in household                                                       0.730400
+Level 2 qualifications                                                            0.713721
+C Manufacturing                                                                   0.711231
+Works mainly at an offshore installation, in no fixed place, or outside the UK    0.710971
+Name: Driving a car or van, dtype: float64
+
+Top 10 correlations for 'Passenger in a car or van':
+C2 Skilled manual occupations                                                     0.762302
+8. Process, plant and machine operatives                                          0.754630
+Level 1 and entry level qualifications                                            0.720901
+Works mainly at an offshore installation, in no fixed place, or outside the UK    0.670471
+Level 2 qualifications                                                            0.649949
+No qualifications                                                                 0.646816
+6. Caring, leisure and other service occupations                                  0.618057
+H Transport and storage                                                           0.611755
+9. Elementary occupations                                                         0.609629
+Fair health                                                                       0.594253
+Name: Passenger in a car or van, dtype: float64
+
+Top 10 correlations for 'Bicycle':
+Mixed or Multiple ethnic groups: Other Mixed or Multiple ethnic groups                           0.604684
+Mixed or Multiple ethnic groups                                                                  0.604362
+Never married and never registered a civil partnership                                           0.581275
+Other household types: Other, including all full-time students and all aged 66 years and over    0.578364
+White: Irish                                                                                     0.570153
+Other household types                                                                            0.552684
+White: Other White                                                                               0.516313
+I Accommodation and food service activities                                                      0.511467
+Black, Black British, Black Welsh, Caribbean or African: Caribbean                               0.505607
+Mixed or Multiple ethnic groups: White and Black Caribbean                                       0.494257
+Name: Bicycle, dtype: float64
+
+Top 10 correlations for 'On foot':
+Less than 2km                                                                       0.856549
+No cars or vans in household                                                        0.712456
+Private rented or lives rent free                                                   0.697874
+Private rented                                                                      0.694540
+Private rented: Private landlord or letting agency                                  0.691996
+White: Other White                                                                  0.680011
+Never married and never registered a civil partnership                              0.632311
+Aged 25 to 34 years                                                                 0.631103
+Single family household: Other single family household                              0.619217
+Single family household: Other single family household: Other family composition    0.619217
+Name: On foot, dtype: float64
+
+Top 10 correlations for 'Other method of travel to work':
+Total social grade                                0.557065
+6 people in household                             0.546796
+Male                                              0.539590
+Asian, Asian British or Asian Welsh               0.532072
+Part-time                                         0.531910
+Other household types: With dependent children    0.531282
+All persons                                       0.522563
+Total: All usual residents                        0.522436
+H Transport and storage                           0.506723
+Part-time: 16 to 30 hours worked                  0.504147
+Name: Other method of travel to work, dtype: float64

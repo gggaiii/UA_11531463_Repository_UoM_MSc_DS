@@ -1,0 +1,130 @@
+|--- Index of Multiple Deprivation (IMD) Decile <= 4.500
+|   |--- 60km and over <= 9.500
+|   |   |--- Index of Multiple Deprivation (IMD) Decile <= 1.500
+|   |   |   |--- Other method of travel to work <= 18.500
+|   |   |   |   |--- L Real estate activities <= 7.500
+|   |   |   |   |   |--- population density <= 6369.900
+|   |   |   |   |   |   |--- value: [75.301]
+|   |   |   |   |   |--- population density >  6369.900
+|   |   |   |   |   |   |--- value: [90.485]
+|   |   |   |   |--- L Real estate activities >  7.500
+|   |   |   |   |   |--- population density <= 8579.700
+|   |   |   |   |   |   |--- value: [93.260]
+|   |   |   |   |   |--- population density >  8579.700
+|   |   |   |   |   |   |--- value: [157.200]
+|   |   |   |--- Other method of travel to work >  18.500
+|   |   |   |   |--- value: [145.286]
+|   |   |--- Index of Multiple Deprivation (IMD) Decile >  1.500
+|   |   |   |--- 40km to less than 60km <= 8.500
+|   |   |   |   |--- population density <= 6971.350
+|   |   |   |   |   |--- 7 people in household <= 3.500
+|   |   |   |   |   |   |--- value: [55.599]
+|   |   |   |   |   |--- 7 people in household >  3.500
+|   |   |   |   |   |   |--- value: [71.831]
+|   |   |   |   |--- population density >  6971.350
+|   |   |   |   |   |--- 40km to less than 60km <= 4.500
+|   |   |   |   |   |   |--- value: [72.306]
+|   |   |   |   |   |--- 40km to less than 60km >  4.500
+|   |   |   |   |   |   |--- value: [110.091]
+|   |   |   |--- 40km to less than 60km >  8.500
+|   |   |   |   |--- D Electricity, gas, steam and air conditioning supply <= 2.500
+|   |   |   |   |   |--- 60km and over <= 7.500
+|   |   |   |   |   |   |--- value: [97.118]
+|   |   |   |   |   |--- 60km and over >  7.500
+|   |   |   |   |   |   |--- value: [135.375]
+|   |   |   |   |--- D Electricity, gas, steam and air conditioning supply >  2.500
+|   |   |   |   |   |--- Aged 65 years and over <= 16.500
+|   |   |   |   |   |   |--- value: [108.500]
+|   |   |   |   |   |--- Aged 65 years and over >  16.500
+|   |   |   |   |   |   |--- value: [69.818]
+|   |--- 60km and over >  9.500
+|   |   |--- population density <= 3865.800
+|   |   |   |--- 7 people in household <= 8.500
+|   |   |   |   |--- Aged 65 years and over <= 16.500
+|   |   |   |   |   |--- value: [105.842]
+|   |   |   |   |--- Aged 65 years and over >  16.500
+|   |   |   |   |   |--- population density <= 2857.000
+|   |   |   |   |   |   |--- value: [63.636]
+|   |   |   |   |   |--- population density >  2857.000
+|   |   |   |   |   |   |--- value: [92.647]
+|   |   |   |--- 7 people in household >  8.500
+|   |   |   |   |--- value: [145.700]
+|   |   |--- population density >  3865.800
+|   |   |   |--- 60km and over <= 15.500
+|   |   |   |   |--- Index of Multiple Deprivation (IMD) Decile <= 1.500
+|   |   |   |   |   |--- 40km to less than 60km <= 2.500
+|   |   |   |   |   |   |--- value: [97.875]
+|   |   |   |   |   |--- 40km to less than 60km >  2.500
+|   |   |   |   |   |   |--- value: [143.956]
+|   |   |   |   |--- Index of Multiple Deprivation (IMD) Decile >  1.500
+|   |   |   |   |   |--- Aged 65 years and over <= 18.000
+|   |   |   |   |   |   |--- value: [132.769]
+|   |   |   |   |   |--- Aged 65 years and over >  18.000
+|   |   |   |   |   |   |--- value: [89.656]
+|   |   |   |--- 60km and over >  15.500
+|   |   |   |   |--- Aged 65 years and over <= 15.000
+|   |   |   |   |   |--- 30km to less than 40km <= 5.500
+|   |   |   |   |   |   |--- value: [113.000]
+|   |   |   |   |   |--- 30km to less than 40km >  5.500
+|   |   |   |   |   |   |--- value: [155.714]
+|   |   |   |   |--- Aged 65 years and over >  15.000
+|   |   |   |   |   |--- value: [178.462]
+|--- Index of Multiple Deprivation (IMD) Decile >  4.500
+|   |--- Index of Multiple Deprivation (IMD) Decile <= 6.500
+|   |   |--- Aged 65 years and over <= 12.500
+|   |   |   |--- value: [134.800]
+|   |   |--- Aged 65 years and over >  12.500
+|   |   |   |--- L Real estate activities <= 18.500
+|   |   |   |   |--- population density <= 6448.200
+|   |   |   |   |   |--- 7 people in household <= 1.500
+|   |   |   |   |   |   |--- value: [36.484]
+|   |   |   |   |   |--- 7 people in household >  1.500
+|   |   |   |   |   |   |--- value: [45.338]
+|   |   |   |   |--- population density >  6448.200
+|   |   |   |   |   |--- value: [59.500]
+|   |   |   |--- L Real estate activities >  18.500
+|   |   |   |   |--- Aged 65 years and over <= 39.500
+|   |   |   |   |   |--- L Real estate activities <= 24.000
+|   |   |   |   |   |   |--- value: [64.688]
+|   |   |   |   |   |--- L Real estate activities >  24.000
+|   |   |   |   |   |   |--- value: [101.000]
+|   |   |   |   |--- Aged 65 years and over >  39.500
+|   |   |   |   |   |--- value: [53.636]
+|   |--- Index of Multiple Deprivation (IMD) Decile >  6.500
+|   |   |--- population density <= 3809.300
+|   |   |   |--- Index of Multiple Deprivation (IMD) Decile <= 8.500
+|   |   |   |   |--- L Real estate activities <= 9.500
+|   |   |   |   |   |--- Other method of travel to work <= 3.500
+|   |   |   |   |   |   |--- value: [17.500]
+|   |   |   |   |   |--- Other method of travel to work >  3.500
+|   |   |   |   |   |   |--- value: [23.583]
+|   |   |   |   |--- L Real estate activities >  9.500
+|   |   |   |   |   |--- population density <= 1318.050
+|   |   |   |   |   |   |--- value: [26.139]
+|   |   |   |   |   |--- population density >  1318.050
+|   |   |   |   |   |   |--- value: [34.571]
+|   |   |   |--- Index of Multiple Deprivation (IMD) Decile >  8.500
+|   |   |   |   |--- Index of Multiple Deprivation (IMD) Decile <= 9.500
+|   |   |   |   |   |--- population density <= 2681.750
+|   |   |   |   |   |   |--- value: [20.182]
+|   |   |   |   |   |--- population density >  2681.750
+|   |   |   |   |   |   |--- value: [28.067]
+|   |   |   |   |--- Index of Multiple Deprivation (IMD) Decile >  9.500
+|   |   |   |   |   |--- 7 people in household <= 1.500
+|   |   |   |   |   |   |--- value: [14.344]
+|   |   |   |   |   |--- 7 people in household >  1.500
+|   |   |   |   |   |   |--- value: [19.842]
+|   |   |--- population density >  3809.300
+|   |   |   |--- L Real estate activities <= 23.500
+|   |   |   |   |--- L Real estate activities <= 15.500
+|   |   |   |   |   |--- 7 people in household <= 3.500
+|   |   |   |   |   |   |--- value: [27.478]
+|   |   |   |   |   |--- 7 people in household >  3.500
+|   |   |   |   |   |   |--- value: [49.200]
+|   |   |   |   |--- L Real estate activities >  15.500
+|   |   |   |   |   |--- A Agriculture, forestry and fishing <= 2.500
+|   |   |   |   |   |   |--- value: [35.595]
+|   |   |   |   |   |--- A Agriculture, forestry and fishing >  2.500
+|   |   |   |   |   |   |--- value: [55.400]
+|   |   |   |--- L Real estate activities >  23.500
+|   |   |   |   |--- value: [62.389]
